@@ -21,6 +21,8 @@ in the images.
 
 
 5. Spatial Pyramid Matching for recognizing images: research project using [Beyond Bags of Features: Spatial Pyramid Matching
-for Recognizing Natural Scene Categories].
+for Recognizing Natural Scene Categories]. In this paper the authors present a method for recognizing scene 
+categories based on approximate global geometric correspondence. The main algorithm for this is made a partition
+in the image, decreasing in each step the region.
 
 [Beyond Bags of Features: Spatial Pyramid Matching for Recognizing Natural Scene Categories]: <http://ieeexplore.ieee.org/document/1641019/>
